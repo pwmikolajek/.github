@@ -1,3 +1,3 @@
 # 👋 Hey there!
 
-![image](https://user-images.githubusercontent.com/6049306/198563422-1ff833c6-58e5-46e0-b13f-f6f4d0c7ee33.png)
+![Linkedin Social Banner – Human Made – Personal Custom](https://user-images.githubusercontent.com/110244764/198564494-44c7e013-0af2-4928-b255-5168f7d324ce.jpg)
