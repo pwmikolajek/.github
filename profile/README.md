@@ -1,11 +1,19 @@
-[<img width="2206" alt="198569063-7ec72567-6aae-44d9-8fc6-161de0dcb6c0" src="https://user-images.githubusercontent.com/82373145/199332312-9864a446-dc55-4ff9-b451-4ce6252aeaff.png">](https://www.humanmade.com)
+[<img width="2206" alt="198569063-7ec72567-6aae-44d9-8fc6-161de0dcb6c0" src="https://github.com/user-attachments/assets/12d04033-87b1-43b1-84e2-c3ffa09aab8a">](https://www.humanmade.com)
 
 # 👋 Hey there! We're Human Made
 
-We’ve got over 10 years’ experience working with WordPress and open source. As one of the largest contributors to the WordPress core project, and the wider ecosystem and community, our work sets the standard for large-scale, open source platforms and tools.
+Human Made is a global WordPress agency building a better web with open source, at scale, and with purpose.
+
+We help enterprise organisations design, build, and grow powerful digital platforms to create outstanding experiences on WordPress. Since 2010, we’ve partnered with global brands like Standard Chartered, TechCrunch, and Capgemini - spanning industries from finance and publishing to higher education and tech.
+
+Our clients benefit from global WordPress expertise, robust engineering practices, and a collaborative, long-term approach that delivers lasting impact. Whether migrating legacy systems, developing global content platforms, or scaling for millions of users, we help teams get the most out of WordPress, securely, efficiently, and with confidence.
+
+What drives us is a belief in the power of open source to create a more accessible, flexible, and sustainable web. Our team work remotely across Europe, Asia, and the Americas, united by shared values, community leadership, and a commitment to open source. 
+
+Human Made. Trusted by enterprise teams. Backed by open source.
 
 _____
 
 👀 We're hiring – [come join us](https://apply.workable.com/humanmade/).<br>
 📖 Read our [company handbook](https://handbook.hmn.md/).<br>
-🙋 Say hey on [Twitter](https://twitter.com/humanmadeltd?lang=en) or [Linkedin](https://www.linkedin.com/company/human-made-limited).
+🙋 Say hey on [X](https://x.com/humanmadeltd) or [LinkedIn](https://www.linkedin.com/company/human-made-limited).
